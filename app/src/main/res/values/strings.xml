@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Habitation</string>
+    <string name="hint_surface">Surface (m²)</string>
+    <string name="hint_pieces">Nombre de pièces</string>
+    <string name="checkbox_piscine">Piscine</string>
+    <string name="button_calcul">Calculer</string>
+    <string name="error_empty_fields">Veuillez remplir tous les champs !</string>
+    <string name="result_text">Impôt total : %.2f DH</string>
+</resources>
